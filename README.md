@@ -10,8 +10,8 @@ Projet Aplikasi yang mengimplementasikan firebase.
 </p>
 
 ## Referensi
-- Flutter [Dependensi Firestore][2]
+- Flutter [Install Dependensi Cloudstore][1]
 
 
-[1]: http://google.com
+[1]: https://pub.dev/packages/cloud_firestore
 
