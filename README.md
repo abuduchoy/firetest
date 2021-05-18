@@ -15,3 +15,9 @@ Projet Aplikasi yang mengimplementasikan firebase.
 
 [1]: http://google.com -->
 
+## Referensi
+- Flutter [Dependensi Firestore][2]
+
+
+[2]: http://google.com
+
