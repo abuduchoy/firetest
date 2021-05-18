@@ -12,8 +12,9 @@ Projet Aplikasi yang mengimplementasikan firebase.
 ## Referensi
 - Flutter [Install Dependensi cloud_firestore][1]
 - Flutter [Install Dependensi firebase_core][2]
+- Konfigurasi Firebase ke dalam flutter [Tutorial][5]
 - Firebase Tutorial [Tutorial][3]
-- Login [Google Firebase][4]
+- Login [Google Firebase][4], [FlutterFire Overview][6], dan [Android Installation][7]
 
 
 
@@ -22,4 +23,7 @@ Projet Aplikasi yang mengimplementasikan firebase.
 [2]: https://pub.dev/packages/firebase_core
 [3]: https://firebase.flutter.dev/docs/firestore/usage/
 [4]: https://firebase.google.com/
+[5]: https://firebase.google.com/codelabs/firebase-get-to-know-flutter#3
+[6]: https://firebase.flutter.dev/docs/overview/
+[7]: https://firebase.flutter.dev/docs/installation/android/
 
